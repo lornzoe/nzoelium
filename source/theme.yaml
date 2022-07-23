@@ -1,10 +1,5 @@
-ThemeApiVersion: 2.2.0
-Id: 8b15c46a-90c2-4fe5-9ebb-1ab25ba7fcb1
-Name: Helium
-Author: darklinkpower
-Version: 1.30
-Links:
-- Name: GitHub
-  Url: https://github.com/darklinkpower/Helium
-- Name: Playnite Forums thread
-  Url: https://playnite.link/forum/thread-811.html
+ThemeApiVersion: 2.1.0
+Id: nzoelium-dev_ff24ef9d-b6b1-45a2-b05d-3aea0d507441
+Name: nzoelium-dev
+Author: Your Name Here
+Version: 1.0
